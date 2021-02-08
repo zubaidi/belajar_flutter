@@ -1,6 +1,6 @@
 # belajar_flutter
 
-A new Flutter project.
+Belajar Widget dengan Flutter.
 
 ## Getting Started
 
